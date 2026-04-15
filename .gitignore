@@ -23,4 +23,5 @@ output/*.png
 logs/*.log
 
 # Fonti scaricate (vengono scaricate dallo script)
+# NOTA: i font .ttf sono commitati per comodità — il download script li aggiorna
 assets/fonts/*.ttf

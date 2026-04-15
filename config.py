@@ -19,6 +19,12 @@ PAGE_W = 1200
 PAGE_H = 1650
 DPI = 72
 
+# ── Layout ────────────────────────────────────────────────────────────────────
+MARGIN_X  = 30   # px margine sinistro/destro
+MARGIN_Y  = 30   # px margine alto/basso
+COL_WIDTH = 170  # px per colonna
+COL_GAP   = 20   # px tra colonne
+
 # ── Palette ───────────────────────────────────────────────────────────────────
 COL_CARTA   = (245, 240, 232)   # #F5F0E8
 COL_NERO     = (26, 26, 26)     # #1A1A1A
