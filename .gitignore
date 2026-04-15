@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+*.log
+
+# Output (gitignored - generated daily)
+output/*.pdf
+output/*.png
+
+# Logs (gitignored)
+logs/*.log
+
+# Fonti scaricate (vengono scaricate dallo script)
+assets/fonts/*.ttf
